@@ -61,6 +61,11 @@ nav {
     color: #FFFFFF;
     margin-top: 24px;
     padding: 17px 24px;
+    border-radius: 10px;
+    border: none;
+}
+.vision-btn:hover{
+    background-color: palevioletred;
 }
 
 .hero {
@@ -380,4 +385,83 @@ main section {
     padding: 14px 26px;
     border: none;
     border-radius: 10px;
+}
+
+.donate {
+    text-align: center;
+
+}
+
+.donate-title {
+    margin-bottom: 24px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+
+.donate-description {
+    margin-top: 0px;
+    font-size: 16px;
+    color: #0E0E0E;
+    opacity: 70%;
+    margin-bottom: 32px;
+}
+
+.tk p {
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    opacity: 80%;
+    box-shadow: .5px 1px 10px rgba(0, 0, 0, .20);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.tk {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.specific-tk {
+    background-color: #C6E4D6;
+}
+
+.input {
+    margin-top: 32px;
+    text-align: center;
+
+
+}
+
+.input-style {
+    margin-bottom: 32px;
+    padding: 20px 455px;
+    box-shadow: .5px 1px 10px rgba(0, 0, 0, .20);
+    border: none;
+}
+
+.btn-style {
+    margin-top: 0px;
+    padding: 17px 34px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+}
+.tk1:hover{
+background-color: tomato;
+}
+.tk2:hover{
+    background-color: blue;
+}
+.tk3:hover{
+    background-color: antiquewhite;
+}
+.tk4:hover{
+    background-color: cyan;
+}
+.btn:hover{
+    background-color:blueviolet;
 }
