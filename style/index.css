@@ -237,3 +237,35 @@ main section {
     display: flex;
     gap: 24px;
 }
+
+
+/* about yunus */
+.about-yunus {
+    background-image: url('../assets/quote-bg.png');
+    background-repeat: no-repeat;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, .8);
+    border-radius: 5px;
+    background-position: 2% 2%;
+}
+
+
+.yunus {
+    padding: 23px;
+}
+
+.description-yunus {
+    font-size: 16px;
+    color: #0E0E0E;
+    margin-bottom: 12px;
+}
+
+.yunus-name {
+    font-weight: 600;
+    font-size: 20px;
+    color: #0E0E0E;
+}
+
+.yunus-position {
+    font-size: 16px;
+    color: #0E0E0E;
+}
