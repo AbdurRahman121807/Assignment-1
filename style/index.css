@@ -64,7 +64,8 @@ nav {
     border-radius: 10px;
     border: none;
 }
-.vision-btn:hover{
+
+.vision-btn:hover {
     background-color: palevioletred;
 }
 
@@ -450,18 +451,98 @@ main section {
     border-radius: 10px;
     border: none;
 }
-.tk1:hover{
-background-color: tomato;
+
+.tk1:hover {
+    background-color: tomato;
 }
-.tk2:hover{
+
+.tk2:hover {
     background-color: blue;
 }
-.tk3:hover{
+
+.tk3:hover {
     background-color: antiquewhite;
 }
-.tk4:hover{
+
+.tk4:hover {
     background-color: cyan;
 }
-.btn:hover{
-    background-color:blueviolet;
+
+.btn:hover {
+    background-color: blueviolet;
+}
+
+.subscribe {
+    text-align: center;
+}
+
+.subscribe-title {
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 16px;
+}
+
+.subscribe-description {
+    font-size: 16px;
+    color: #0E0E0E;
+    opacity: 70%;
+    margin-bottom: 24px;
+}
+
+.join {
+    margin-top: 24px;
+    text-align: center;
+}
+
+.field {
+
+    padding: 18px 410px 18px 40px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: .5px 1px 10px rgba(0, 0, 0, .20);
+    font-size: 16px;
+    /* opacity: 30%; */
+    margin-right: 0;
+    background-color: #FFFFFF;
+}
+
+.join-btn {
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #006A50;
+    color: #FFFFFF;
+    padding: 17px 34px;
+    border-radius: 0 10px 10px 0;
+    margin-left: 0;
+}
+
+.color {
+    background-color: #C6E4D6;
+    padding: 100px 200px;
+    border-radius: 15px;
+}
+
+.spam {
+    margin-top: 24px;
+    font-size: 16px;
+    color: #0E0E0E;
+    opacity: 70%;
+}
+
+body {
+    background-color: #F1F1F3;
+}
+
+.bottom{
+    text-align: center;
+}
+.bd{
+    font-size: 32px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 32px;
+}
+.icon{
+    margin-left: 20px;
 }
